@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# Cache and logs
+*.log
+*.json
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Python-specific packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Editor configurations
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Docker-specific files
+*.dockerignore
+Dockerfile*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
